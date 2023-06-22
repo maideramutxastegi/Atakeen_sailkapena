@@ -13,4 +13,4 @@ Gainerakoak, grafo egiturak erabilita sortutako fitxategiak dira:
 
 Fitxategi hauek, Google-ek eskaintzen duen "Google Colab" tresna erabiliz edo Jupyter Notebook interfazea erabiliz exekutatu daitezke.
 
-Gainera, "Datuak" izeneko karpeta bat dago. Karpeta honetan, inplementazioan zehar erabili diren taulak aurki daitezke.
+Gainera, "Datuak.zip" izeneko zip fitxategi bat dago. Fitxategi honetan, inplementazioan zehar erabili diren taulak aurki daitezke.
