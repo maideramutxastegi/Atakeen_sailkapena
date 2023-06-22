@@ -1,14 +1,13 @@
 # Atakeen sailkapena konputagailuen arteko komunikazioetan ikasketa automatikoko teknikak erabiliz
 
-Gradu amaierako lanaren inplementazioa *.ipynb* motako fitxategietan burutu da. Guztira, 5 fitxategi sortu dira. 
-Lehenengoa, grafo egiturak erabili gabe sortutako kodea da:
-- Memoriako "5.1 Datuen antolamendua eta aurreprozesaketa" atalari dagokiona: *Sailkapen_gainbegiratuko_teknika_klasikoak.ipynb*.
+Gradu amaierako lanaren inplementazioa *.ipynb* motako fitxategietan burutu da. 
 
-Gainerakoak, grafo egiturak erabilita sortutako fitxategiak dira:
-- Memoriako "5.2.1 Denbora leihoak eraikita egindako esperimentuak" atalari dagokiona: *Denbora_leihoak_eraikita.ipynb*.
-- Memoriako  ... atalari dagokiona,
-- Memoriako  ... atalari dagokiona,
-- Memoriako  ... atalari dagokiona,
+Guztira, 5 fitxategi sortu dira: 
+- Grafo egiturak erabili gabe, datuen antolamendua eta aurreprozesaketa burutzeko erabilitako kodea, *Sailkapen_gainbegiratuko_teknika_klasikoak.ipynb* fitxategian dago.
+- Grafo egiturak erabilita eta denbora leihoak eraikita egindako esperimentua *Denbora_leihoak_eraikita.ipynb* fitxategian inplementatu da.
+- Grafo egiturak erabilita, train eta testerako grafo bakarra erabilita eta errepikatutako ertzak ezabatuz egindako esperimentuak, *Errepikatutako_ertzak_ezabatuz.ipynb* fitxategian adierazten dira.
+- Grafo egiturak erabilita, train eta testerako grafo bakarra erabilita eta datu-multzoa handituz egindako esperimentuak, *Datu_kopurua_handituz.ipynb* fitxategian adierazten dira.
+- Grafo egiturak erabilita eta entrenamendurako hainbat grafo erabilita egindako esperimentuak, *Entrenamendua_hainbat_graforekin.ipynb* fitxategian adierazten dira.
 
 
 Fitxategi hauek, Google-ek eskaintzen duen "Google Colab" tresna erabiliz edo Jupyter Notebook interfazea erabiliz exekutatu daitezke.
