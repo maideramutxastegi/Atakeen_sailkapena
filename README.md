@@ -1,6 +1,7 @@
 # Atakeen sailkapena konputagailuen arteko komunikazioetan ikasketa automatikoko teknikak erabiliz
 
 Gradu amaierako lanaren inplementazioa *.ipynb* motako fitxategietan burutu da. 
+Proba hauek egiteko, BETH datu-multzoa erabili da: https://www.kaggle.com/datasets/katehighnam/beth-dataset
 
 Guztira, 5 fitxategi sortu dira: 
 - Grafo egiturak erabili gabe egindako esperimentuak *Sailkapen_gainbegiratuko_teknika_klasikoak.ipynb* fitxategian inplementatu dira.
@@ -12,4 +13,4 @@ Guztira, 5 fitxategi sortu dira:
 
 Fitxategi hauek, Google-ek eskaintzen duen "Google Colab" tresna erabiliz edo Jupyter Notebook interfazea erabiliz exekutatu daitezke.
 
-Gainera, "Datuak.zip" izeneko zip fitxategi bat dago. Fitxategi honetan, inplementazioan zehar erabili diren datuen taulak aurki daitezke.
+Gainera, "Datuak.zip" izeneko zip fitxategi bat dago. Fitxategi honetan, inplementazioan zehar erabili diren datuen taulak aurki daitezke. Taula hauek ere, BETH datu-multzoak aurki daitezke.
