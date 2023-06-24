@@ -13,4 +13,4 @@ Guztira, 5 fitxategi sortu dira:
 
 Fitxategi hauek, Google-ek eskaintzen duen "Google Colab" tresna erabiliz edo Jupyter Notebook interfazea erabiliz exekutatu daitezke.
 
-Gainera, "Datuak.zip" izeneko zip fitxategi bat dago. Fitxategi honetan, inplementazioan zehar erabili diren datuen taulak aurki daitezke. Taula hauek ere, BETH datu-multzoak aurki daitezke.
+Gainera, "Datuak.zip" izeneko zip fitxategi bat dago. Fitxategi honetan, inplementazioan zehar erabili diren datuen taulak aurki daitezke. Taula hauek ere, BETH datu-multzoan aurki daitezke.
